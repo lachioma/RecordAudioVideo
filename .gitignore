@@ -12,6 +12,7 @@
 *.m~
 
 # Data files
+/data
 *.avi
 *.mp4
 *.mic
